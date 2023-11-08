@@ -1,5 +1,14 @@
 # Changelog
 
+## [v2.x.x](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.x.x) (2023/11/08)
+
+[Full Changelog](https://github.com/nagmint12/PathOfBuilding2/commits/v2.x.x)
+
+<!-- Release notes generated using configuration in .github/release.yml at dev -->
+
+
+
+
 ## [v2.34.1](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.34.1) (2023/09/16)
 
 [Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.34.0...v2.34.1)
